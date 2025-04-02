@@ -3,6 +3,7 @@
     "usb": {
         "pid": "0x0004"
     },
+    "modules": ["getreuer/tap_flow"],
     "rgb_matrix": {
         "split_count": [23, 23],
         "layout": [
